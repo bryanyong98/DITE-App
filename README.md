@@ -1,4 +1,4 @@
-# DITE-mobile-app
+# DITE (Deaf in Touch Everywhere) Mobile App
 
 DITE is a mobile application developed by a team of six using technologies such as Flutter, Dart, Javascript, Postgresql.  
 
