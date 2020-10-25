@@ -1,6 +1,6 @@
 # DITE (Deaf in Touch Everywhere) Mobile App
 
-DITE is a mobile application developed by a team of six using technologies such as Flutter, Dart, Javascript, Postgresql.  
+DITE is a mobile application developed by a team of six using technologies such as Flutter, Dart, Javascript, Postgresql as part of the final year milestone project in Monash.  
 
 This project aims to solve issues faced by the deaf users by allowing them to schedule medical appointments with medical staff with the help of sign language interpreters without the need to meet physically. 
 
