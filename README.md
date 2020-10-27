@@ -25,14 +25,14 @@ This project aims to solve issues faced by the deaf users by allowing them to sc
 
 <p float="left">
       <img src="https://user-images.githubusercontent.com/59403437/96543315-b1c96800-12d6-11eb-811d-83134bd22fcc.jpeg" width="30%" />
-      <img src="https://user-images.githubusercontent.com/59403437/96543337-bee65700-12d6-11eb-9a2d-69617395ccd6.jpeg" width="30%" />
-
+      <img src="https://user-images.githubusercontent.com/59403437/96543306-aaa25a00-12d6-11eb-9d88-d7565a779bdb.jpeg" width="30%" /> 
 </p>
 
 <br/>
 
 <p float="left">
-      <img src="https://user-images.githubusercontent.com/59403437/96543306-aaa25a00-12d6-11eb-9d88-d7565a779bdb.jpeg" width="30%" /> 
+      <img src="https://user-images.githubusercontent.com/59403437/96543337-bee65700-12d6-11eb-9a2d-69617395ccd6.jpeg" width="30%" />
+      <img src="https://user-images.githubusercontent.com/59403437/97246535-87c4f800-1838-11eb-90a7-1dd552559c1f.jpeg" width="30%" />
 </p>
 
 
