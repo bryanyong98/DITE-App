@@ -32,7 +32,7 @@ This project aims to solve issues faced by the deaf users by allowing them to sc
 
 <p float="left">
       <img src="https://user-images.githubusercontent.com/59403437/96543337-bee65700-12d6-11eb-9a2d-69617395ccd6.jpeg" width="30%" />
-      <img src="https://user-images.githubusercontent.com/59403437/97246535-87c4f800-1838-11eb-90a7-1dd552559c1f.jpeg" width="30%" />
+      <img src="https://user-images.githubusercontent.com/59403437/97246535-87c4f800-1838-11eb-90a7-1dd552559c1f.jpeg" width="30%" height="50%" />
 </p>
 
 
